@@ -15,8 +15,8 @@ I'm an undergraduate Data Science student passionate about turning data into imp
 - **Credit Card Fraud Detection using Graph Attention Network (GAT)** – Applied GAT to model relationships between transactions and detect anomalies.
 
 ### 📫 How to Reach Me
-- LinkedIn: [linkedin.com/in/nikitaandrea](https://linkedin.com/in/nikitaandrea)
-- Email: nikita.andrea@email.com
+- LinkedIn: [linkedin.com/in/nikitaandrea](https://www.linkedin.com/in/nikita-farah-andrea-4a3942275/)
+- Email: nikitaadrr@gmail.com
 
 ### 📈 GitHub Stats
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitaadrr&show_icons=true&theme=radical)
